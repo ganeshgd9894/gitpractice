@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 a = 1000
+=======
+a = 100
+>>>>>>> dev1
 if a>100:
     print("a is bigger than 100")
     print("code inside if condition")
