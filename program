@@ -1,4 +1,4 @@
-a = 10
+a = 1000
 if a>100:
     print("a is bigger than 100")
     print("code inside if condition")
